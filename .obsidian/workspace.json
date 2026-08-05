@@ -4,53 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "7cf71a6c093bdf3f",
+        "id": "7395cb443e7c8875",
         "type": "tabs",
         "children": [
           {
-            "id": "52536f704ee3e342",
+            "id": "25522e5a5f31eb93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "미드마켓 세일즈 파이프라인.md",
+                "file": "8 week 1/CS CX 업무에 대한 이해.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "미드마켓 세일즈 파이프라인"
+              "title": "CS CX 업무에 대한 이해"
             }
           },
           {
-            "id": "3fb66d7a427ec34b",
+            "id": "c1b8f4920ea3ece6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-07 Townhall Video.md",
+                "file": "8 week 1/세일즈커뮤니케이션의 이해 (Pricing).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07 Townhall Video"
-            }
-          },
-          {
-            "id": "db6fab0c941d2f7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "제품 소개 영상 시청 & 콘텐츠 읽기.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "제품 소개 영상 시청 & 콘텐츠 읽기"
+              "title": "세일즈커뮤니케이션의 이해 (Pricing)"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cdaba66c16f4d7ab",
@@ -216,13 +201,33 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "bases:새 베이스 생성하기": false,
-      "obsidian-git:Open Git source control": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "db6fab0c941d2f7e",
+  "active": "c1b8f4920ea3ece6",
   "lastOpenFiles": [
-    "2026-07 Townhall Video.md",
-    "제품 소개 영상 시청 & 콘텐츠 읽기.md",
-    "미드마켓 세일즈 파이프라인.md"
+    "x.img/Pasted image 20260805135303.png",
+    "8 week 1/CS CX 업무에 대한 이해.md",
+    "pin/peter) funnel 설정.md",
+    "8 week 1/투자자레터.md",
+    "8 week 1/야나이 다다시 - 성공은 하루 만에 잊어라.md",
+    "8 week 1/세일즈커뮤니케이션의 이해 (Pricing).md",
+    "8 week 1/제품 소개 영상 시청 & 콘텐츠 읽기.md",
+    "8 week 1/제품 기본 구조와 핵심 가치 이해.md",
+    "8 week 1/미드마켓 세일즈 파이프라인.md",
+    "x.img/Pasted image 20260805133024.png",
+    "8 week 1/(8.5.) Lead Market.md",
+    "x.img/Pasted image 20260805105919.png",
+    "x.img",
+    "x.img/Pasted image 20260805132647.png",
+    "x.img/Pasted image 20260805110321.png",
+    "pin/pin!.md",
+    "pin",
+    "8 week 1/(8.5.) IS-Ramp Daily sync.md",
+    "8 week 1/(8.4.) IS-Ramp Daily sync.md",
+    "8 week 1/2026-07 Townhall Video.md",
+    "8 week 1/(8.4.) Lead Market.md",
+    "8 week 1",
+    "8.4."
   ]
 }
