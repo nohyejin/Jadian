@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8 week 1/미드마켓.md",
+                "file": "8 week 1/(8.5.) IS-Ramp Daily sync.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "미드마켓"
+              "title": "(8.5.) IS-Ramp Daily sync"
             }
           },
           {
@@ -111,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cdaba66c16f4d7ab",
@@ -222,6 +223,7 @@
   },
   "active": "25522e5a5f31eb93",
   "lastOpenFiles": [
+    "8 week 1/미드마켓.md",
     "8 week 1/세일즈덱.md",
     "8 week 1/제품 소개 영상 시청 & 콘텐츠 읽기.md",
     "8 week 1/투자자레터.md",
@@ -229,7 +231,6 @@
     "8 week 1/Channel KR-CX IC workshop.md",
     "8 week 1/제품 기본 구조와 핵심 가치 이해.md",
     "8 week 1/세일즈커뮤니케이션의 이해.md",
-    "8 week 1/미드마켓.md",
     "8 week 1/(8.5.) Lead Market.md",
     "8 week 1/2026-07 Townhall Video.md",
     "8 week 1/야나이 다다시 - 성공은 하루 만에 잊어라.md",
