@@ -152,3 +152,6 @@ WMS - SAP, CRM - 내부 개발, 개발 후에 시간이 지나서 내역이 잘 
 * 채널톡 setting 프로그램 DS / 외주(expert)
 
 Feature 세일즈만 했다면 되지 않는다라고 답했을 질문을 visionary와 trend로 방어
+* 기능을 어필할 때는 기술성 외에 예상되는 결과까지
+
+AHT (Average Handling Time): 콜센터나 고객 지원 부서에서 상담원이 고객 한 명의 문의를 받아 처리하고 완료할 때까지 걸리는 평균 시간
