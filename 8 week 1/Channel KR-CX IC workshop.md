@@ -20,4 +20,6 @@
 >Net Promoter Score: 제품 추천 지수
 
 ## CSAT
->고
+>고객 응대 만족도
+
+
