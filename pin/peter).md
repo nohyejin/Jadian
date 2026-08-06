@@ -29,3 +29,7 @@ Gathering Key-man ) 매일 action할 수 있는 사람
 
 * 전화 끊을 때 언제 전화할지 물어보고 전화 / 다음 action 명확하게 (시간 맞춰서 연락)
 * task보다는 workflow 세팅 
+
+
+통판업 정보 링크
+https://www.ftc.go.kr/www/selectBizCommList.do?key=254
