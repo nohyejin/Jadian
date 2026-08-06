@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "25522e5a5f31eb93",
+            "id": "3bbbac8a5441a3ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8 week 1/(8.5.) IS-Ramp Daily sync.md",
+                "file": "8 week 1/(8.6.) Lead Market.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(8.5.) IS-Ramp Daily sync"
+              "title": "(8.6.) Lead Market"
             }
           },
           {
-            "id": "02108a9233593289",
+            "id": "1f05d551271b56d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8 week 1/(8.4.) Lead Market.md",
+                "file": "8 week 1/(8.5.) Lead Market.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(8.4.) Lead Market"
+              "title": "(8.5.) Lead Market"
             }
           }
         ]
@@ -207,12 +207,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "25522e5a5f31eb93",
+  "active": "3bbbac8a5441a3ae",
   "lastOpenFiles": [
+    "8 week 1/(8.5.) Lead Market.md",
+    "8 week 1/(8.6.) Lead Market.md",
     "8 week 1/(8.4.) Lead Market.md",
+    "8 week 1/(8.5.) IS-Ramp Daily sync.md",
     "8 week 1/(8.4.) IS-Ramp Daily sync.md",
     "8 week 1/Channel KR-CX IC workshop.md",
-    "8 week 1/(8.5.) IS-Ramp Daily sync.md",
     "8 week 1/미드마켓.md",
     "8 week 1/세일즈덱.md",
     "8 week 1/제품 소개 영상 시청 & 콘텐츠 읽기.md",
@@ -220,7 +222,6 @@
     "8 week 1/CS CX 업무에 대한 이해.md",
     "8 week 1/제품 기본 구조와 핵심 가치 이해.md",
     "8 week 1/세일즈커뮤니케이션의 이해.md",
-    "8 week 1/(8.5.) Lead Market.md",
     "8 week 1/2026-07 Townhall Video.md",
     "8 week 1/야나이 다다시 - 성공은 하루 만에 잊어라.md",
     "8 week 1/미드마켓 세일즈 파이프라인.md",
