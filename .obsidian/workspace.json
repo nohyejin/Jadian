@@ -62,6 +62,18 @@
               "icon": "lucide-file",
               "title": "고객 페르소나와 공통 세일즈 시나리오"
             }
+          },
+          {
+            "id": "664793f78abc9892",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "x.img/Pasted image 20260806103142.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260806103142"
+            }
           }
         ],
         "currentTab": 3
