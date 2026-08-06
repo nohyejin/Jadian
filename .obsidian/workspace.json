@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3bbbac8a5441a3ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8 week 1/채널어드민.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "채널어드민"
-            }
-          },
-          {
             "id": "5a184bdf1cae1f14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8 week 1/버티컬 정의 및 주요 레퍼런스.md",
+                "file": "8 week 1/(8.6.) Lead Market.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "버티컬 정의 및 주요 레퍼런스"
+              "title": "(8.6.) Lead Market"
+            }
+          },
+          {
+            "id": "1b2b72c175d3c1db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8 week 1/(8.6.) IS-Ramp Daily sync.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(8.6.) IS-Ramp Daily sync"
             }
           },
           {
@@ -63,7 +63,8 @@
               "title": "채널어드민"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cdaba66c16f4d7ab",
@@ -288,12 +290,15 @@
       }
     ]
   },
-  "active": "3bbbac8a5441a3ae",
+  "active": "1b2b72c175d3c1db",
   "lastOpenFiles": [
-    "8 week 1/고객 페르소나와 공통 세일즈 시나리오.md",
-    "8 week 1/버티컬 정의 및 주요 레퍼런스.md",
-    "8 week 1/채널어드민.md",
     "8 week 1/(8.6.) Lead Market.md",
+    "8 week 1/(8.6.) IS-Ramp Daily sync.md",
+    "8 week 1/(8.5.) IS-Ramp Daily sync.md",
+    "8 week 1/버티컬 정의 및 주요 레퍼런스.md",
+    "pin/peter).md",
+    "8 week 1/채널어드민.md",
+    "8 week 1/고객 페르소나와 공통 세일즈 시나리오.md",
     "8 week 1/미드마켓.md",
     "8 week 1/Channel KR-CX IC workshop.md",
     "8 week 1/세일즈덱.md",
@@ -301,7 +306,6 @@
     "8 week 1/야나이 다다시 - 성공은 하루 만에 잊어라.md",
     "8 week 1/투자자레터.md",
     "8 week 1/CS CX 업무에 대한 이해.md",
-    "8 week 1/(8.5.) IS-Ramp Daily sync.md",
     "8 week 1/(8.5.) Lead Market.md",
     "8 week 1/(8.4.) Lead Market.md",
     "8 week 1/(8.4.) IS-Ramp Daily sync.md",
@@ -309,7 +313,6 @@
     "8 week 1/제품 소개 영상 시청 & 콘텐츠 읽기.md",
     "8 week 1/2026-07 Townhall Video.md",
     "8 week 1/미드마켓 세일즈 파이프라인.md",
-    "pin/peter).md",
     "x.img/Pasted image 20260806134515.png",
     "x.img/Pasted image 20260806134502.png",
     "x.img/Pasted image 20260806134450.png",
