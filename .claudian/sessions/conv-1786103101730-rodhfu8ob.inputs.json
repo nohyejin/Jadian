@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786103101730-rodhfu8ob",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786103101818-unkkdba",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786103101723-nmylmco",
+      "timestamp": 1786103101723,
+      "rawDisplayText": "내 메모들 중에서 미드마켓 세일즈와 관련된 내용들 전부 찾아서 요약해줘",
+      "canonicalText": "내 메모들 중에서 미드마켓 세일즈와 관련된 내용들 전부 찾아서 요약해줘",
+      "images": [],
+      "contentDigest": "92527d1edfa58eb82fb7ebeac4c9f332beaf71155f3ae4ac790d4a31b346f917",
+      "providerUserMessageId": "e35891cb-a51b-4c57-80ae-3ba4cc74680a",
+      "providerAssistantMessageId": "b4d5014c-fd24-4bc3-9aa3-7211268a64d6"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786103267372-bdxxmty",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786103267366-rx5l59g",
+      "timestamp": 1786103267366,
+      "rawDisplayText": "현재 내 옵시디언 파일들 구조와 플러그인들 파악해서, 어떻게 더 효율적이고 생산성 있게 사용할지 가이드해줘. 내 직무는 sdr이야.",
+      "canonicalText": "현재 내 옵시디언 파일들 구조와 플러그인들 파악해서, 어떻게 더 효율적이고 생산성 있게 사용할지 가이드해줘. 내 직무는 sdr이야.",
+      "images": [],
+      "contentDigest": "5eaf1c7218dd72529269f1a60045b09bd5b14d9c52f00ecfc88719f91806dc88",
+      "providerUserMessageId": "ee2fb781-2ccb-4730-839d-ef8f531f45cb"
+    }
+  ]
+}

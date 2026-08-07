@@ -1,0 +1,22 @@
+{
+  "id": "conv-1786103101730-rodhfu8ob",
+  "providerId": "claude",
+  "title": "Summarize mid-market sales notes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786103101734,
+  "lastActivityAt": 1786103267366,
+  "sessionId": "229ddb81-2571-48e9-83c7-68e53472ffae",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "229ddb81-2571-48e9-83c7-68e53472ffae"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1348,
+    "cacheReadInputTokens": 62649,
+    "contextWindow": 1000000,
+    "contextTokens": 63998,
+    "percentage": 6
+  }
+}
