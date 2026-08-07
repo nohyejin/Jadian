@@ -72,9 +72,19 @@
               "icon": "lucide-git-fork",
               "title": "그래프 뷰"
             }
+          },
+          {
+            "id": "344a39d777d619e6",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -284,14 +294,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "f3422b5ab1e49d8a",
+  "active": "344a39d777d619e6",
   "lastOpenFiles": [
+    "2026-08-07.md",
     "무제.canvas",
     "Excalidraw/Drawing 2026-08-07 20.22.18.excalidraw.md",
-    "2026-08-07.md",
     "8 week 1/제품 기본 구조와 핵심 가치 이해.md",
     "Excalidraw",
     "8 week 1/고객 페르소나와 공통 세일즈 시나리오.md",
