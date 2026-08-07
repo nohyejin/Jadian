@@ -1,9 +1,9 @@
 {
   "calendarSources": [
     {
-      "type": "local",
-      "color": "hsl(calc(258 - 1), calc(88% * 1.01), calc(66% * 1.075))",
-      "directory": "/"
+      "type": "ical",
+      "color": "#9873f7",
+      "url": "https://calendar.google.com/calendar/ical/jade%40channel.io/private-0a5f91e8b938b91e216124f19bf00bcf/basic.ics"
     }
   ],
   "defaultCalendar": 0,
