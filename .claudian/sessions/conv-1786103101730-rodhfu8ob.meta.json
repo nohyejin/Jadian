@@ -4,7 +4,7 @@
   "title": "Summarize mid-market sales notes",
   "titleGenerationStatus": "success",
   "createdAt": 1786103101734,
-  "lastActivityAt": 1786103429266,
+  "lastActivityAt": 1786104666778,
   "sessionId": "229ddb81-2571-48e9-83c7-68e53472ffae",
   "selectedModel": "opus",
   "providerState": {
@@ -12,11 +12,11 @@
   },
   "usage": {
     "model": "opus",
-    "inputTokens": 1,
-    "cacheCreationInputTokens": 1219,
-    "cacheReadInputTokens": 78925,
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 1005,
+    "cacheReadInputTokens": 89714,
     "contextWindow": 1000000,
-    "contextTokens": 80145,
-    "percentage": 8
+    "contextTokens": 90721,
+    "percentage": 9
   }
 }

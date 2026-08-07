@@ -29,6 +29,33 @@
       "contentDigest": "5eaf1c7218dd72529269f1a60045b09bd5b14d9c52f00ecfc88719f91806dc88",
       "providerUserMessageId": "ee2fb781-2ccb-4730-839d-ef8f531f45cb",
       "providerAssistantMessageId": "7722368b-af97-4ee8-9e1a-165993b2fd33"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786104507712-8f4kgzf",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1786104507709-60lh00y",
+      "timestamp": 1786104507709,
+      "rawDisplayText": "그래프뷰나 백링크도 효율적으로 사용하는 방법 알려줘",
+      "canonicalText": "그래프뷰나 백링크도 효율적으로 사용하는 방법 알려줘",
+      "images": [],
+      "contentDigest": "5fdc2a4ba5f517de348c894a3dfc910cd3a9f21890e305ac76397b179889dc4a",
+      "providerUserMessageId": "d2fae7a3-5bd5-4f6f-9e7e-37d82df2b3fb",
+      "providerAssistantMessageId": "97d2cfdd-a37e-4a6d-821c-fca044d75232"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786104666784-1m2ul21",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1786104666778-og7895a",
+      "timestamp": 1786104666778,
+      "rawDisplayText": "웅 ㄱㄱ 그리고 노트들 제목에서 띄어쓰기를 전부 언더바 _로 수정해줘",
+      "canonicalText": "웅 ㄱㄱ 그리고 노트들 제목에서 띄어쓰기를 전부 언더바 _로 수정해줘",
+      "images": [],
+      "contentDigest": "1d682526efef42d2ad230e0facef5352f4711a5010ee1b55db7808c7ce72ca32",
+      "providerUserMessageId": "4abc7ad5-5100-4019-b66f-86297370e72b"
     }
   ]
 }
