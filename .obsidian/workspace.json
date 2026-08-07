@@ -286,9 +286,19 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "8abae30946c5794e",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -309,10 +319,11 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "realclaudian:Open Claudian": false
     }
   },
-  "active": "8031cb873d3e19f3",
+  "active": "8abae30946c5794e",
   "lastOpenFiles": [
     "8 week 1/제품 소개 영상 시청 & 콘텐츠 읽기.md",
     "8 week 1/채널어드민.md",
