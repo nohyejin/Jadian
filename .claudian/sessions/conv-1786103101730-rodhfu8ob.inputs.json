@@ -27,7 +27,8 @@
       "canonicalText": "현재 내 옵시디언 파일들 구조와 플러그인들 파악해서, 어떻게 더 효율적이고 생산성 있게 사용할지 가이드해줘. 내 직무는 sdr이야.",
       "images": [],
       "contentDigest": "5eaf1c7218dd72529269f1a60045b09bd5b14d9c52f00ecfc88719f91806dc88",
-      "providerUserMessageId": "ee2fb781-2ccb-4730-839d-ef8f531f45cb"
+      "providerUserMessageId": "ee2fb781-2ccb-4730-839d-ef8f531f45cb",
+      "providerAssistantMessageId": "7722368b-af97-4ee8-9e1a-165993b2fd33"
     }
   ]
 }
