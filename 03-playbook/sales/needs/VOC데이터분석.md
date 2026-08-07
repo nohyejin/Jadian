@@ -17,10 +17,10 @@ category: 데이터 자산화
 - [[베리시]]
 - [[시스디자인]]
 
-## 이 니즈를 가진 딜
+## 관련 딜 (학습 노트 + 내 딜)
 ```dataview
 TABLE vertical AS "버티컬", stage AS "단계", next_action AS "다음 액션"
-FROM "01-accounts"
+FROM "04-reference/deal-notes" OR "01-accounts"
 WHERE contains(string(core_needs), "VOC데이터분석")
 SORT stage ASC
 ```

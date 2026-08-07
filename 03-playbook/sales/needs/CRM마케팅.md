@@ -17,10 +17,10 @@ category: 매출 기여
 - [[어뮤즈]]
 - [[펫프렌즈]]
 
-## 이 니즈를 가진 딜
+## 관련 딜 (학습 노트 + 내 딜)
 ```dataview
 TABLE vertical AS "버티컬", stage AS "단계", next_action AS "다음 액션"
-FROM "01-accounts"
+FROM "04-reference/deal-notes" OR "01-accounts"
 WHERE contains(string(core_needs), "CRM마케팅")
 SORT stage ASC
 ```

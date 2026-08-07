@@ -1,4 +1,4 @@
-#buddy
+#framework
 
 새로운 리드 150개를 받으면 3일 내에 전화 → [[Open]] / [[Contacting]]
 긍정/부정적 반응에 따라 나누기
