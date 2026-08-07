@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "02-daily/(8.7.)_Daily_Sync.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "(8.7.)_Daily_Sync"
             }
           },
           {
@@ -30,8 +30,19 @@
               "icon": "calendar-glyph",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "914d52af11133c7e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -235,7 +246,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 524.515625
+    "width": 524.515625,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,9 +270,10 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "603b0ea8159fcc4f",
+  "active": "914d52af11133c7e",
   "lastOpenFiles": [
     "02-daily/(8.7.)_Daily_Sync.md",
+    "README.md",
     "04-reference/deal-notes/팩플러스.md",
     "04-reference/deal-notes/우아미가구.md",
     "04-reference/deal-notes/에이지엔.md",
@@ -273,7 +286,6 @@
     "04-reference/verticals/커머스-건강기능식품.md",
     "04-reference/verticals/B2B-IT솔루션.md",
     "04-reference/verticals/커머스-뷰티.md",
-    "README.md",
     "SDR_대시보드.md",
     "pin/야나이_다다시_-_성공은_하루_만에_잊어라.md",
     "04-reference/내부_딜_사례.md",

@@ -123,7 +123,21 @@
       "canonicalText": "데일리 노트(스크럼, 콜 로그, 리드마켓)을 바탕으로 reference 문서 생성을 자동화할 수는 없을까?",
       "images": [],
       "contentDigest": "12b377dc3cb2ea32fa46f7d6e2953b043b75369d00ffa22c06d9cc508eb2c519",
-      "providerUserMessageId": "0e651681-1357-4fef-a47c-e1cb43ebc4f1"
+      "providerUserMessageId": "0e651681-1357-4fef-a47c-e1cb43ebc4f1",
+      "providerAssistantMessageId": "7fcdbb18-419a-4237-b0ca-4fa552d54809"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786118516172-a0d0txe",
+      "userTurnOrdinal": 10,
+      "state": "accepted",
+      "localMessageId": "msg-1786118516165-wr6su40",
+      "timestamp": 1786118516165,
+      "rawDisplayText": "명령어는 '데일리 정리' 로 설정할게",
+      "canonicalText": "명령어는 '데일리 정리' 로 설정할게",
+      "images": [],
+      "contentDigest": "e71ac5bb250598a29826498673a0919819bff77853cc01df2174835b4f993858",
+      "providerUserMessageId": "740e135d-4f79-4ba3-a445-614778abe60b"
     }
   ]
 }
