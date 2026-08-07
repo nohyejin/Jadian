@@ -258,8 +258,9 @@
       "publish:변경사항 게재": false
     }
   },
-  "active": "603b0ea8159fcc4f",
+  "active": "8abae30946c5794e",
   "lastOpenFiles": [
+    "README.md",
     "03-playbook/product/features/CoS.md",
     "01-accounts/따벨라.md",
     "SDR_대시보드.md",
@@ -285,7 +286,6 @@
     "04-reference/cases/TRDST.md",
     "03-playbook/sales/personas/대표경영진.md",
     "03-playbook/sales/personas/마케터.md",
-    "03-playbook/sales/personas/IT개발자.md",
     "03-playbook/frameworks",
     "03-playbook/sales/personas",
     "03-playbook/sales/needs",
