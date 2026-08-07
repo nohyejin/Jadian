@@ -1,3 +1,5 @@
 {
-  "attachmentFolderPath": "x.img"
+  "attachmentFolderPath": "x.img",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00-inbox"
 }

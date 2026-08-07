@@ -56,6 +56,32 @@
       "images": [],
       "contentDigest": "1d682526efef42d2ad230e0facef5352f4711a5010ee1b55db7808c7ce72ca32",
       "providerUserMessageId": "4abc7ad5-5100-4019-b66f-86297370e72b"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786105156302-vftpnt2",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1786105156298-2z3rokr",
+      "timestamp": 1786105156298,
+      "rawDisplayText": "계속 진행 ㄱㄱ",
+      "canonicalText": "계속 진행 ㄱㄱ",
+      "images": [],
+      "contentDigest": "cfe857b8ec9724d81f22fbf5d64969a6cfe5e2d1b7a282db21f05ef554e3cd03",
+      "providerUserMessageId": "6f65ed11-87f2-4ca1-9778-c00be60ea0e9"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786105362208-ibhvexi",
+      "userTurnOrdinal": 6,
+      "state": "accepted",
+      "localMessageId": "msg-1786105362203-cbcq5de",
+      "timestamp": 1786105362203,
+      "rawDisplayText": "음 아니야 하던 거. 계속하고, reference뿐만 아니라 playbook 내에서도 백링크 걸만한 것들 추천해줘",
+      "canonicalText": "음 아니야 하던 거. 계속하고, reference뿐만 아니라 playbook 내에서도 백링크 걸만한 것들 추천해줘",
+      "images": [],
+      "contentDigest": "5ae77ace03c4434be56e8ba5a04522df4b24032c9dee871f991a05b4c9147461",
+      "providerUserMessageId": "1889fb21-6cfd-44c3-ab98-28b2756d3204"
     }
   ]
 }

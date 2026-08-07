@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "1c5b5d50cc561a63",
+        "id": "b67ad4396a1b4ff4",
         "type": "tabs",
         "children": [
           {
-            "id": "57cf69e29b234b28",
+            "id": "603b0ea8159fcc4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-accounts/schema.md",
+                "file": "02-daily/(8.7.)_Lead_Market.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "schema"
+              "title": "(8.7.)_Lead_Market"
+            }
+          },
+          {
+            "id": "1889e0bb570e7ee3",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
             }
           }
         ]
@@ -83,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cdaba66c16f4d7ab",
@@ -244,47 +253,49 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "realclaudian:Open Claudian": false
+      "realclaudian:Open Claudian": false,
+      "audio-recorder:녹음 시작/정지": false,
+      "publish:변경사항 게재": false
     }
   },
-  "active": "8abae30946c5794e",
+  "active": "603b0ea8159fcc4f",
   "lastOpenFiles": [
-    "03-playbook/product/제품 기본 구조와 핵심 가치 이해.md",
-    "02-daily/(8.5.) Lead Market.md",
-    "90-retro/8 week 1 회고.md",
-    "01-accounts/schema.md",
-    "04-reference/레퍼런스 플래시카드.md",
-    "03-playbook/product/세일즈덱.md",
-    "03-playbook/cx/CS CX 업무에 대한 이해.md",
-    "8 week 1/투자자레터.md",
-    "03-playbook/cx",
-    "03-playbook/peter).md",
-    "8 week 1/2026-07 Townhall Video.md",
-    "pin/call 분석 framework.md",
-    "03-playbook/product/채널어드민.md",
-    "03-playbook/cx/Channel KR-CX IC workshop.md",
-    "04-reference/버티컬 정의 및 주요 레퍼런스.md",
-    "03-playbook/sales/고객 페르소나와 공통 세일즈 시나리오.md",
+    "02-daily/(8.7.)_Lead_Market.md",
+    "02-daily/(8.7.)_Daily_Sync.md",
+    "03-playbook/cx/CS_CX_업무에_대한_이해.md",
+    "02-daily/(8.5.)_Lead_Market.md",
+    "02-daily/(8.5.)_IS-Ramp_Daily_sync.md",
+    "02-daily/(8.4.)_Lead_Market.md",
+    "04-reference/cases/스파르타코딩클럽.md",
+    "04-reference/verticals/교육.md",
+    "02-daily/(8.6.)_Lead_Market.md",
+    "03-playbook/cx/Channel_KR-CX_IC_workshop.md",
     "03-playbook/market/미드마켓.md",
-    "03-playbook/market/미드마켓 세일즈 파이프라인.md",
-    "03-playbook/sales/세일즈커뮤니케이션의 이해.md",
-    "03-playbook/product/제품 소개 영상 시청 & 콘텐츠 읽기.md",
-    "02-daily/(8.7.) Lead Market.md",
+    "03-playbook/market/미드마켓_세일즈_파이프라인.md",
+    "90-retro/8_week_1_회고.md",
+    "pin/야나이_다다시_-_성공은_하루_만에_잊어라.md",
+    "04-reference/competitors/데이터라이즈.md",
+    "04-reference/competitors/챗봇나우.md",
+    "04-reference/deal-cases/쥬비스.md",
+    "04-reference/deal-cases/주노.md",
+    "04-reference/deal-cases/라빈.md",
+    "04-reference/deal-cases/김영편.md",
+    "02-daily/(8.4.)_IS-Ramp_Daily_sync.md",
+    "01-accounts/schema.md",
+    "04-reference/competitors/해피톡.md",
+    "04-reference/verticals/B2B-IT솔루션.md",
+    "04-reference/verticals/커머스-FnB.md",
+    "04-reference/verticals/커머스-일반.md",
+    "03-playbook/product/features",
+    "04-reference/platforms",
+    "04-reference/competitors",
+    "04-reference/deal-cases",
+    "04-reference/cases",
+    "04-reference/verticals",
+    "03-playbook/cx",
     "03-playbook/market",
     "03-playbook/product",
     "03-playbook/sales",
-    "02-daily/(8.6.) Lead Market.md",
-    "02-daily/(8.4.) IS-Ramp Daily sync.md",
-    "02-daily/(8.7.) Daily Sync.md",
-    "90-retro",
-    "04-reference",
-    "03-playbook",
-    "02-daily",
-    "01-accounts",
-    "00-inbox",
-    "pin/야나이 다다시 - 성공은 하루 만에 잊어라.md",
-    "02-daily/(8.5.) IS-Ramp Daily sync.md",
-    "02-daily/(8.4.) Lead Market.md",
     "무제.canvas",
     "x.img/Pasted image 20260806134515.png",
     "x.img/Pasted image 20260806134502.png",
