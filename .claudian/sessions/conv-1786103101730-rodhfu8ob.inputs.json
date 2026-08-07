@@ -81,7 +81,21 @@
       "canonicalText": "음 아니야 하던 거. 계속하고, reference뿐만 아니라 playbook 내에서도 백링크 걸만한 것들 추천해줘",
       "images": [],
       "contentDigest": "5ae77ace03c4434be56e8ba5a04522df4b24032c9dee871f991a05b4c9147461",
-      "providerUserMessageId": "1889fb21-6cfd-44c3-ab98-28b2756d3204"
+      "providerUserMessageId": "1889fb21-6cfd-44c3-ab98-28b2756d3204",
+      "providerAssistantMessageId": "05017483-6c9d-41fa-8e5e-2958b914ebb3"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786106180281-h4i3h6n",
+      "userTurnOrdinal": 7,
+      "state": "accepted",
+      "localMessageId": "msg-1786106180274-o0w9s1f",
+      "timestamp": 1786106180274,
+      "rawDisplayText": "ㅇㅋ. 그리고 마지막으로 이 옵시디언의 전체 구조가 어떻게 되어 있고, 나는 앞으로 어떻게 활용하면 되는지 가이드라인을 정리한 readme 파일 혹은 가이드북 파일을 하나 만들어로 정리해줘. 이 옵시디언을 처음 여는 사람도 구조를 파악할 수 있는 사용설명서 같은 거야.",
+      "canonicalText": "ㅇㅋ. 그리고 마지막으로 이 옵시디언의 전체 구조가 어떻게 되어 있고, 나는 앞으로 어떻게 활용하면 되는지 가이드라인을 정리한 readme 파일 혹은 가이드북 파일을 하나 만들어로 정리해줘. 이 옵시디언을 처음 여는 사람도 구조를 파악할 수 있는 사용설명서 같은 거야.",
+      "images": [],
+      "contentDigest": "d9aeccf19c5f8136f1af506c901e865e576e786ccdb8b788f624603bb2bf7d62",
+      "providerUserMessageId": "7b7f1a0a-bb1c-46da-a33b-66f59bc24bc9"
     }
   ]
 }
