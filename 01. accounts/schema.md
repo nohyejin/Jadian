@@ -2,19 +2,20 @@
 type: account
 company: 베니토
 vertical: 커머스/의류패션
-revenue: 
-stage: Nurturing          # Open|Gathering|Contacting|Nurturing|Discovery|LM|Convert|Lost
-keyman: 
+revenue:
+stage: Nurturing
+keyman:
 keyman_contact: false
 competitor: 해피톡
-core_needs: [인건비절감, VOC데이터분석]
-mrr_est: 
+core_needs:
+  - 인건비절감
+  - VOC데이터분석
+mrr_est:
 next_action: 신규 브랜드 런칭 일정 확인 콜
 next_date: 2026-08-12
 first_touch: 2026-08-07
-sf_link: 
+sf_link:
 ---
-
 #account
 
 ## Core Needs
@@ -31,5 +32,3 @@ sf_link:
 
 ## 타임라인
 - 2026-08-07 리드마켓 리뷰
-
-**이 5개 필드만 채워도 세상이 바뀝니다**: `stage` / `next_action` / `next_date` / `vertical` / `keyman_contact`
