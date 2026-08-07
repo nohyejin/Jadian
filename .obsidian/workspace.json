@@ -62,9 +62,19 @@
               "icon": "lucide-file",
               "title": "제품 기본 구조와 핵심 가치 이해"
             }
+          },
+          {
+            "id": "d348840650854d71",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -212,13 +222,53 @@
               "icon": "lucide-list",
               "title": "개요"
             }
+          },
+          {
+            "id": "f3422b5ab1e49d8a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "e9f1c58a611b9a2e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "09071f07fd3c87d3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "697eba424509ac06",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,16 +282,22 @@
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "65da2144f1b80f2e",
+  "active": "f3422b5ab1e49d8a",
   "lastOpenFiles": [
+    "무제.canvas",
+    "Excalidraw/Drawing 2026-08-07 20.22.18.excalidraw.md",
+    "2026-08-07.md",
+    "8 week 1/제품 기본 구조와 핵심 가치 이해.md",
+    "Excalidraw",
     "8 week 1/고객 페르소나와 공통 세일즈 시나리오.md",
     "8 week 1/버티컬 정의 및 주요 레퍼런스.md",
     "8 week 1/Channel KR-CX IC workshop.md",
     "8 week 1/(8.4.) Lead Market.md",
-    "8 week 1/제품 기본 구조와 핵심 가치 이해.md",
     "8 week 1/제품 소개 영상 시청 & 콘텐츠 읽기.md",
     "8 week 1/(8.4.) IS-Ramp Daily sync.md",
     "8 week 1/(8.7.) Daily Synk.md",
@@ -263,14 +319,11 @@
     "x.img/Pasted image 20260806134515.png",
     "x.img/Pasted image 20260806134502.png",
     "x.img/Pasted image 20260806134450.png",
-    "회고/8 week 1 회고.md",
     "x.img/Pasted image 20260806103142.png",
-    "pin/call 분석 framework.md",
     "x.img/Pasted image 20260805171439.png",
     "x.img/Pasted image 20260805161330.png",
     "x.img/Pasted image 20260805160731.png",
     "x.img/Pasted image 20260805155415.png",
-    "무제.canvas",
     "회고",
     "x.img/Pasted image 20260805135303.png",
     "x.img/Pasted image 20260805133024.png",
