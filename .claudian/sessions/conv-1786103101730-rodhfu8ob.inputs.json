@@ -111,6 +111,19 @@
       "contentDigest": "8b1c32ea6be854d77ad40e9eb964195e8cadeb9c4f1a686b8ebf3d74d6aacf4c",
       "providerUserMessageId": "408da934-0dc2-404d-9338-a73a71487951",
       "providerAssistantMessageId": "bafb37cc-9ea8-46a7-ac81-11af868b324e"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786117867083-st7wfuv",
+      "userTurnOrdinal": 9,
+      "state": "accepted",
+      "localMessageId": "msg-1786117867078-ot7ognx",
+      "timestamp": 1786117867078,
+      "rawDisplayText": "데일리 노트(스크럼, 콜 로그, 리드마켓)을 바탕으로 reference 문서 생성을 자동화할 수는 없을까?",
+      "canonicalText": "데일리 노트(스크럼, 콜 로그, 리드마켓)을 바탕으로 reference 문서 생성을 자동화할 수는 없을까?",
+      "images": [],
+      "contentDigest": "12b377dc3cb2ea32fa46f7d6e2953b043b75369d00ffa22c06d9cc508eb2c519",
+      "providerUserMessageId": "0e651681-1357-4fef-a47c-e1cb43ebc4f1"
     }
   ]
 }
