@@ -1,22 +1,72 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"01-accounts\"",
+      "color": {
+        "a": 1,
+        "rgb": 4890367
+      }
+    },
+    {
+      "query": "path:\"04-reference\"",
+      "color": {
+        "a": 1,
+        "rgb": 16763196
+      }
+    },
+    {
+      "query": "path:\"03-playbook/sales/funnel\"",
+      "color": {
+        "a": 1,
+        "rgb": 11225020
+      }
+    },
+    {
+      "query": "path:\"03-playbook/sales/needs\"",
+      "color": {
+        "a": 1,
+        "rgb": 2541274
+      }
+    },
+    {
+      "query": "path:\"03-playbook/product/features\"",
+      "color": {
+        "a": 1,
+        "rgb": 16740419
+      }
+    },
+    {
+      "query": "path:\"03-playbook\"",
+      "color": {
+        "a": 1,
+        "rgb": 5025616
+      }
+    },
+    {
+      "query": "path:\"02-daily\"",
+      "color": {
+        "a": 1,
+        "rgb": 10395294
+      }
+    }
+  ],
   "collapse-display": true,
-  "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
+  "showArrow": true,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 1.1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.6414552605565627,
+  "linkDistance": 180,
+  "scale": 0.8,
   "close": true
 }
