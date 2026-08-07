@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-reference/deal-notes/씨너지파트너.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "씨너지파트너"
+              "title": "README"
             }
           },
           {
@@ -271,6 +271,7 @@
   },
   "active": "603b0ea8159fcc4f",
   "lastOpenFiles": [
+    "04-reference/deal-notes/씨너지파트너.md",
     "02-daily/(8.7.)_Daily_Sync.md",
     "README.md",
     "04-reference/deal-notes/팩플러스.md",
@@ -296,7 +297,6 @@
     "04-reference/verticals/커머스-FnB.md",
     "04-reference/verticals/커머스-인테리어가구.md",
     "04-reference/verticals/커머스-반려동물.md",
-    "04-reference/deal-notes/README.md",
     "04-reference/deal-notes",
     "03-playbook/frameworks",
     "03-playbook/sales/personas",

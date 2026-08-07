@@ -173,7 +173,6 @@ source: "[[(8.7.)_Lead_Market]]"
 | `#sales-method` | 세일즈 방법론 | 3 |
 | `#moc` `#readme` `#dashboard` `#glossary` `#persona` `#platform` `#deal-case` `#retro` `#cx` `#market` `#product` `#flashcards` | 단일 문서 | 각 1~2 |
 
-> 정리 완료: `#edu` `#reference` `#tool` `#sales` `#LeadMarket` `#DailySync` `#회고` `#buddy` `#cs/cx` 는 위 체계로 통합되었습니다.
 
 ---
 
